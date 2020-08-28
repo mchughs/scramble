@@ -1,5 +1,5 @@
 /out/
-/resources/public/js/compiled/
+/public/js/compiled/
 /target/
 /*-init.clj
 /*.log
@@ -12,5 +12,4 @@
 /node_modules/
 
 # shadow-cljs cache, port files
-/shadow-cljs.edn
 /.shadow-cljs/
